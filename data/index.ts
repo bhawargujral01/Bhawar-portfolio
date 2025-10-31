@@ -77,11 +77,9 @@ export const workExperience = [
     title: "Software Developer - Full Stack",
     company: "QuadB Technologies",
     location: "Remote (Jan 2025-Jul 2025)",
-    desc: `Worked on building scalable full stack applications for enterprise clients, delivering high-performance frontends, secure backend APIs,
-and cloud-native deployments. Improved UI responsiveness, API efficiency, and automated CI/CD pipelines, enabling reliable and faster
-product releases Used: : React.js, TypeScript, Tailwind CSS, Node.js, Express, Spring Boot, PostgreSQL, MongoDB, AWS (EC2, Lambda, S3),
-Docker, Jenkins, GitHub Actions, Jira, Agile.
-`,
+    desc: `Worked on building scalable full stack applications for enterprise clients, delivering high-performance frontends, secure backend APIs,and cloud-native deployments. Improved UI responsiveness, API efficiency, and automated CI/CD pipelines, enabling reliable and faster product releases.
+    
+    Used: React.js, TypeScript, Tailwind CSS, Node.js, Express, Spring Boot, PostgreSQL, MongoDB, AWS (EC2, Lambda, S3),Docker, Jenkins, GitHub Actions, Jira, Agile.`,
     thumbnail: "/exp1.svg",
   },
   {
@@ -89,20 +87,31 @@ Docker, Jenkins, GitHub Actions, Jira, Agile.
     title: "Software Developer Intern Full Stack",
     company: "HRXConnect",
     location: "Ontario, Canada (Sep 2024 - Dec 2024)",
-    desc: `Contributed to the development of a cross-platform e-commerce application with secure payments, mobile-first design, and
-cloud-native scalability. Focused on improving system performance, authentication, and transaction workflows.Used: React Native, Node.js, Express.js, MongoDB, AWS (Lambda, S3), Stripe APIs, OAuth2, Docker, Postman, Agile`,
+    desc: `Contributed to the development of a cross-platform e-commerce application with secure payments, mobile-first design, and cloud-native scalability. Focused on improving system performance, authentication, and transaction workflows.
+    
+    Used: React Native, Node.js, Express.js, MongoDB, AWS (Lambda, S3), Stripe APIs, OAuth2, Docker, Postman, Agile`,
     className: "md:col-span-2",
     thumbnail: "/exp3.svg",
   },
   {
     id: 3,
+    title: "Software Developer",
+    company: "Humber College",
+    location: "Ontario, Canada (July 2023 - Aug 2024)",
+    desc: `Contributed to developing high-performance, event-driven microservices and full-stack security applications. Focused on real-time data processing, API performance optimization, and rigorous testing to ensure system reliability and code quality.
+    
+    Used : Java, Spring Boot, Spring Kafka, Angular, Redis, JUnit, Mockito, JMeter, Log4j2, SonarLint`,
+    className: "md:col-span-2",
+    thumbnail: "/exp4.svg",
+  },
+  {
+    id: 4,
     title: "Java Developer",
     company: "Socket Magnate Pvt Ltd",
     location: "India (Jan 2022 - Feb 2023)",
-    desc: `Migrated and modernized a legacy accounting system to a secure, scalable Java 17 platform. Delivered new billing features,
-optimized database performance, and enabled multi-channel document sharing to improve adoption and efficiency. Used: Java 7, Java 17, Spring Boot, Hibernate, PostgreSQL, Oracle DB, REST APIs, Docker, JUnit, Jenkins, Git, Agile, JSON,
-Eclipse .
-`,
+    desc: `Migrated and modernized a legacy accounting system to a secure, scalable Java 17 platform. Delivered new billing features, optimized database performance, and enabled multi-channel document sharing to improve adoption and efficiency. 
+    
+    Used: Java 7, Java 17, Spring Boot, Hibernate, PostgreSQL, Oracle DB, REST APIs, Docker, JUnit, Jenkins, Git, Agile, JSON, Eclipse .`,
     className: "md:col-span-2",
     thumbnail: "/exp2.svg",
   },

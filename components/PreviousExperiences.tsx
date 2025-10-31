@@ -13,7 +13,7 @@ const PreviousExperiences = () => {
           {exp.company}{" "}
         </h2>
         <h2 className="text-base text-purple">{exp.location}</h2>
-        <p className="text-neutral-700 dark:text-neutral-300">{exp.desc}</p>
+        <p className="text-neutral-700 dark:text-neutral-300 whitespace-pre-line">{exp.desc}</p>
         <img
           src={exp.thumbnail}
           alt={exp.title}
